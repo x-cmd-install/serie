@@ -7,7 +7,7 @@ about:
   head: c4ef1bd
   archived: false
   latestVersion: v0.8.2
-  collectedAt: 2026-09-04T19:22:56Z
+  collectedAt: 2026-09-04T21:12:00Z
 timeline:
   created: 2024-07-28
   lastCommit: 2026-09-03
@@ -80,5 +80,33 @@ total:
   openIssue: 15
   commit: 222
 ---
+path: /home/runner/.x-repo/github.com/lusingander/serie
+collectedAt: 2026-09-04T21:12:02Z
+loc:
+  Rust:
+    code: 10364
+    comments: 90
+    blanks: 1492
+    files: 28
+  Json:
+    code: 707
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 118
+    comments: 1
+    blanks: 10
+    files: 6
+  Markdown:
+    code: 0
+    comments: 707
+    blanks: 339
+    files: 18
+total:
+  code: 11287
+  comments: 811
+  blanks: 1855
+  files: 53
 ---
 
