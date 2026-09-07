@@ -5,13 +5,13 @@ about:
   head: 48fcd8c
   archived: false
   latestVersion: "v0.9.0"
-  collectedAt: 2026-09-07T04:24:35Z
+  collectedAt: 2026-09-07T20:05:45Z
 timeline:
   created: 2024-07-28
   lastCommit: 2026-09-05
   lastRelease: 2026-09-06
 popularity:
-  star: 2083
+  star: 2085
   watcher: 8
   fork: 55
   release: 30
@@ -79,7 +79,7 @@ total:
   commit: 225
 ---
 path: /home/runner/.x-repo/github.com/lusingander/serie
-collectedAt: 2026-09-07T04:24:36Z
+collectedAt: 2026-09-07T20:05:47Z
 loc:
   Rust:
     code: 10671
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:24:37+00:00
+  collectedAt: 2026-09-07T20:05:48+00:00
   platform:
     darwin/arm64:
       name:  serie-0.9.0-aarch64-apple-darwin.tar.gz
