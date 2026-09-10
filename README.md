@@ -23,11 +23,21 @@ x install serie
 - **Latest**: `v0.9.0` (2026-09-06)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 6
-- **Published**: 2026-09-06T00:05:00Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [serie-0.9.0-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.9.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
+| [serie-0.9.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.9.0-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
+| [serie-0.9.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.9.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 2,090 · **Forks**: 55 · **Open issues**: 52 · **Contributors**: 15
+- **Stars**: 2,093 · **Forks**: 55 · **Open issues**: 52 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -57,8 +67,8 @@ Total: **11,529** lines of code across **55** files in the top 5 languages.
 Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `serie` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/serie.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/serie.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:29:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:01:18Z._
