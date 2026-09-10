@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1596078,
       "digest": "sha256:d42be3191fc693888b568c7ea26531f87c4e9fa38d527bdaa6055be1b66f3bfc",
-      "download_count": 68,
+      "download_count": 69,
       "created_at": "2026-09-06T00:03:52Z",
       "updated_at": "2026-09-06T00:03:52Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-unknown-linux-gnu.tar.gz"
