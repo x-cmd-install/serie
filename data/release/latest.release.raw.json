@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1210783,
       "digest": "sha256:5d4407b485d06956c487eeeaafc8e560a442bc0ab7a5fd1404cff03a7d9ba285",
-      "download_count": 72,
+      "download_count": 76,
       "created_at": "2026-09-06T00:03:52Z",
       "updated_at": "2026-09-06T00:03:52Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1302573,
       "digest": "sha256:bab507a875c353a8a3c753354006d817ce4821f37ea56926a21af5d4305c336d",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-09-06T00:03:52Z",
       "updated_at": "2026-09-06T00:03:52Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1596078,
       "digest": "sha256:d42be3191fc693888b568c7ea26531f87c4e9fa38d527bdaa6055be1b66f3bfc",
-      "download_count": 72,
+      "download_count": 76,
       "created_at": "2026-09-06T00:03:52Z",
       "updated_at": "2026-09-06T00:03:52Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1673133,
       "digest": "sha256:cb15bdbc8f93b3665295279456d9b55d245118631f6e3ae5b5f88d2d3496e33f",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-09-06T00:03:52Z",
       "updated_at": "2026-09-06T00:03:52Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.9.0/serie-0.9.0-x86_64-unknown-linux-musl.tar.gz"
