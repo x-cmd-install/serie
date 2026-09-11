@@ -37,7 +37,7 @@ Total: **11,529** lines of code across **55** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,096 · **Forks**: 55 · **Open issues**: 52 · **Contributors**: 15
+- **Stars**: 2,095 · **Forks**: 55 · **Open issues**: 52 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -67,12 +67,12 @@ Total: **11,529** lines of code across **55** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/serie). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/serie). **9** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.9.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.9.0` | ✅ latest |
 | Nix unstable | `0.9.0` | ✅ latest |
 | Alpine edge | `0.9.0` | ✅ latest |
 
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:41:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:21:13Z._
