@@ -37,22 +37,22 @@ Total: **11,529** lines of code across **55** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,098 · **Forks**: 55 · **Open issues**: 52 · **Contributors**: 15
+- **Stars**: 2,100 · **Forks**: 55 · **Open issues**: 53 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 103 · **Open PRs**: 9 · **Closed issues**: 37 · **Open issues**: 15 · **Commits**: 226
+- **Releases**: 30 · **Merged PRs**: 103 · **Open PRs**: 9 · **Closed issues**: 37 · **Open issues**: 16 · **Commits**: 226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 8 | 1 | 0 | 1 | 9 |
-| last60d | 2026-07-16 | 3 | 9 | 1 | 0 | 1 | 10 |
-| 90d | 2026-06-16 | 3 | 9 | 1 | 0 | 1 | 13 |
-| last180d | 2026-03-18 | 6 | 24 | 3 | 0 | 4 | 34 |
-| 360d | 2025-09-19 | 16 | 54 | 7 | 9 | 6 | 91 |
-| last720d | 2024-09-24 | 24 | 74 | 8 | 22 | 11 | 171 |
+| 30d | 2026-08-16 | 2 | 8 | 1 | 0 | 2 | 9 |
+| last60d | 2026-07-17 | 3 | 9 | 1 | 0 | 2 | 10 |
+| 90d | 2026-06-17 | 3 | 9 | 1 | 0 | 2 | 13 |
+| last180d | 2026-03-19 | 6 | 24 | 3 | 0 | 5 | 34 |
+| 360d | 2025-09-20 | 16 | 53 | 7 | 9 | 7 | 91 |
+| last720d | 2024-09-25 | 24 | 74 | 8 | 22 | 12 | 171 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:47:44Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:49:20Z._
