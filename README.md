@@ -21,7 +21,7 @@ Total: **11,775** lines of code across **54** files in the top 5 languages.
 | Rust | 10,904 | 93 | 1,547 | 30 |
 | Json | 754 | 0 | 0 | 1 |
 | Toml | 117 | 1 | 10 | 5 |
-| Markdown | 0 | 722 | 345 | 18 |
+| Markdown | 0 | 750 | 354 | 18 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **11,775** lines of code across **54** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.1` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-26
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,117 · **Forks**: 59 · **Open issues**: 53 · **Contributors**: 15
+- **Stars**: 2,120 · **Forks**: 59 · **Open issues**: 53 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 107 · **Open PRs**: 9 · **Closed issues**: 37 · **Open issues**: 16 · **Commits**: 231
+- **Releases**: 31 · **Merged PRs**: 108 · **Open PRs**: 9 · **Closed issues**: 37 · **Open issues**: 16 · **Commits**: 232
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 9 | 1 | 0 | 1 | 11 |
-| last60d | 2026-07-27 | 3 | 12 | 1 | 0 | 2 | 15 |
-| 90d | 2026-06-27 | 4 | 13 | 1 | 0 | 2 | 18 |
-| last180d | 2026-03-29 | 7 | 26 | 3 | 0 | 4 | 37 |
-| 360d | 2025-09-30 | 16 | 57 | 7 | 9 | 7 | 96 |
-| last720d | 2024-10-05 | 25 | 78 | 8 | 22 | 12 | 176 |
+| 30d | 2026-08-27 | 2 | 10 | 1 | 0 | 1 | 12 |
+| last60d | 2026-07-28 | 3 | 13 | 1 | 0 | 2 | 16 |
+| 90d | 2026-06-28 | 4 | 14 | 1 | 0 | 2 | 19 |
+| last180d | 2026-03-30 | 7 | 27 | 3 | 0 | 4 | 38 |
+| 360d | 2025-10-01 | 16 | 58 | 7 | 9 | 7 | 97 |
+| last720d | 2024-10-06 | 25 | 79 | 8 | 22 | 12 | 177 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:50:28Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:51:27Z._
