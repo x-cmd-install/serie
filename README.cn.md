@@ -14,11 +14,11 @@ x install serie
 
 ## 代码洞察
 
-合计: **11,775** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
+合计: **11,977** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 10,904 | 93 | 1,547 | 30 |
+| Rust | 11,106 | 96 | 1,611 | 30 |
 | Json | 754 | 0 | 0 | 1 |
 | Toml | 117 | 1 | 10 | 5 |
 | Markdown | 0 | 750 | 354 | 18 |
@@ -31,39 +31,39 @@ x install serie
 
 ## 发布
 
-- **最新版本**: `v0.9.1` (2026-09-22)
-- **最近提交**: 2026-09-26
+- **最新版本**: `v0.9.2` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 2,128 · **Fork**: 60 · **开放 issue**: 53 · **贡献者**: 15
+- **Star**: 2,130 · **Fork**: 60 · **开放 issue**: 53 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 108 · **开放 PR**: 9 · **已关闭 issue**: 37 · **开放 issue**: 16 · **提交数**: 232
+- **发布数**: 32 · **已合并 PR**: 111 · **开放 PR**: 9 · **已关闭 issue**: 38 · **开放 issue**: 15 · **提交数**: 236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 10 | 1 | 0 | 1 | 11 |
-| last60d | 2026-08-01 | 3 | 13 | 1 | 0 | 2 | 16 |
-| 90d | 2026-07-02 | 4 | 14 | 1 | 0 | 2 | 19 |
-| last180d | 2026-04-03 | 7 | 26 | 3 | 0 | 4 | 32 |
-| 360d | 2025-10-05 | 16 | 58 | 7 | 9 | 7 | 96 |
-| last720d | 2024-10-10 | 25 | 79 | 8 | 22 | 12 | 177 |
+| 30d | 2026-09-01 | 3 | 13 | 1 | 0 | 1 | 15 |
+| last60d | 2026-08-02 | 4 | 16 | 1 | 0 | 2 | 20 |
+| 90d | 2026-07-03 | 5 | 17 | 1 | 0 | 2 | 23 |
+| last180d | 2026-04-04 | 8 | 28 | 3 | 0 | 4 | 36 |
+| 360d | 2025-10-06 | 17 | 61 | 7 | 9 | 7 | 100 |
+| last720d | 2024-10-11 | 26 | 82 | 8 | 22 | 12 | 181 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [serie-0.9.1-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [serie-0.9.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
-| [serie-0.9.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
-| [serie-0.9.1-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
-| [serie-0.9.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
-| [serie-0.9.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.1/serie-0.9.1-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [serie-0.9.2-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.9.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
+| [serie-0.9.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.9.2-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
+| [serie-0.9.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.9.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:24:52Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:40:27Z._
