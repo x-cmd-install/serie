@@ -31,39 +31,39 @@ x install serie
 
 ## 发布
 
-- **最新版本**: `v0.9.2` (2026-09-30)
-- **最近提交**: 2026-10-04
+- **最新版本**: `v0.9.3` (2026-10-06)
+- **最近提交**: 2026-10-06
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 2,132 · **Fork**: 61 · **开放 issue**: 54 · **贡献者**: 16
+- **Star**: 2,130 · **Fork**: 61 · **开放 issue**: 54 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 32 · **已合并 PR**: 113 · **开放 PR**: 9 · **已关闭 issue**: 39 · **开放 issue**: 15 · **提交数**: 238
+- **发布数**: 33 · **已合并 PR**: 113 · **开放 PR**: 9 · **已关闭 issue**: 39 · **开放 issue**: 15 · **提交数**: 239
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 11 | 0 | 1 | 1 | 12 |
-| last60d | 2026-08-06 | 4 | 18 | 1 | 1 | 2 | 22 |
-| 90d | 2026-07-07 | 5 | 19 | 1 | 1 | 2 | 25 |
-| last180d | 2026-04-08 | 7 | 28 | 3 | 1 | 3 | 34 |
-| 360d | 2025-10-10 | 17 | 63 | 7 | 10 | 7 | 98 |
-| last720d | 2024-10-15 | 26 | 84 | 8 | 23 | 12 | 183 |
+| 30d | 2026-09-06 | 4 | 11 | 0 | 1 | 1 | 13 |
+| last60d | 2026-08-07 | 5 | 18 | 1 | 1 | 2 | 23 |
+| 90d | 2026-07-08 | 6 | 19 | 1 | 1 | 2 | 26 |
+| last180d | 2026-04-09 | 8 | 26 | 3 | 1 | 3 | 35 |
+| 360d | 2025-10-11 | 18 | 63 | 7 | 10 | 7 | 99 |
+| last720d | 2024-10-16 | 27 | 84 | 8 | 22 | 12 | 184 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [serie-0.9.2-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [serie-0.9.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
-| [serie-0.9.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
-| [serie-0.9.2-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
-| [serie-0.9.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
-| [serie-0.9.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.2/serie-0.9.2-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [serie-0.9.3-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.9.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
+| [serie-0.9.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.9.3-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
+| [serie-0.9.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.9.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T05:28:11Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:10:26Z._
