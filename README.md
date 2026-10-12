@@ -14,14 +14,14 @@ x install serie
 
 ## Code insight
 
-Total: **13,329** lines of code across **56** files in the top 5 languages.
+Total: **13,777** lines of code across **59** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,431 | 122 | 1,722 | 31 |
+| Rust | 12,880 | 129 | 1,752 | 34 |
 | Json | 763 | 0 | 0 | 1 |
-| Toml | 135 | 1 | 10 | 6 |
-| Markdown | 0 | 783 | 372 | 18 |
+| Toml | 134 | 1 | 10 | 6 |
+| Markdown | 0 | 793 | 376 | 18 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **13,329** lines of code across **56** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.3` (2026-10-06)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,139 · **Forks**: 64 · **Open issues**: 54 · **Contributors**: 16
+- **Stars**: 2,138 · **Forks**: 64 · **Open issues**: 54 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 117 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 243
+- **Releases**: 33 · **Merged PRs**: 123 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 3 | 14 | 0 | 1 | 1 | 17 |
-| last60d | 2026-08-12 | 5 | 22 | 1 | 1 | 2 | 27 |
-| 90d | 2026-07-13 | 6 | 23 | 1 | 1 | 2 | 27 |
-| last180d | 2026-04-14 | 7 | 30 | 3 | 1 | 2 | 38 |
-| 360d | 2025-10-16 | 17 | 66 | 7 | 10 | 7 | 103 |
-| last720d | 2024-10-21 | 27 | 88 | 8 | 22 | 12 | 188 |
+| 30d | 2026-09-12 | 3 | 20 | 0 | 1 | 1 | 24 |
+| last60d | 2026-08-13 | 5 | 28 | 1 | 1 | 2 | 34 |
+| 90d | 2026-07-14 | 6 | 29 | 1 | 1 | 2 | 34 |
+| last180d | 2026-04-15 | 7 | 36 | 3 | 1 | 2 | 45 |
+| 360d | 2025-10-17 | 17 | 72 | 7 | 10 | 7 | 110 |
+| last720d | 2024-10-22 | 27 | 94 | 8 | 22 | 12 | 195 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:37:39Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:46:43Z._
