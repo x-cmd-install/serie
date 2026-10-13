@@ -31,39 +31,39 @@ Total: **13,777** lines of code across **59** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.3` (2026-10-06)
+- **Latest**: `v0.10.0` (2026-10-12)
 - **Last commit**: 2026-10-12
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,138 · **Forks**: 64 · **Open issues**: 54 · **Contributors**: 16
+- **Stars**: 2,139 · **Forks**: 64 · **Open issues**: 54 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 123 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 250
+- **Releases**: 34 · **Merged PRs**: 123 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 20 | 0 | 1 | 1 | 24 |
-| last60d | 2026-08-13 | 5 | 28 | 1 | 1 | 2 | 34 |
-| 90d | 2026-07-14 | 6 | 29 | 1 | 1 | 2 | 34 |
-| last180d | 2026-04-15 | 7 | 36 | 3 | 1 | 2 | 45 |
-| 360d | 2025-10-17 | 17 | 72 | 7 | 10 | 7 | 110 |
-| last720d | 2024-10-22 | 27 | 94 | 8 | 22 | 12 | 195 |
+| 30d | 2026-09-13 | 4 | 20 | 0 | 1 | 1 | 25 |
+| last60d | 2026-08-14 | 6 | 28 | 1 | 1 | 2 | 35 |
+| 90d | 2026-07-15 | 7 | 29 | 1 | 1 | 2 | 35 |
+| last180d | 2026-04-16 | 8 | 36 | 3 | 1 | 2 | 46 |
+| 360d | 2025-10-18 | 18 | 72 | 7 | 10 | 7 | 111 |
+| last720d | 2024-10-23 | 28 | 94 | 8 | 22 | 12 | 196 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [serie-0.9.3-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [serie-0.9.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-unknown-linux-gnu.tar.gz) | 1.4 MiB | `native/linux/arm64/glibc` |
-| [serie-0.9.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
-| [serie-0.9.3-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
-| [serie-0.9.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
-| [serie-0.9.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.9.3/serie-0.9.3-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [serie-0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.10.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [serie-0.10.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.10.0-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [serie-0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:46:43Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:41:52Z._
