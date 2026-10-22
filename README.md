@@ -14,11 +14,11 @@ x install serie
 
 ## Code insight
 
-Total: **13,777** lines of code across **59** files in the top 5 languages.
+Total: **13,902** lines of code across **59** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,880 | 129 | 1,752 | 34 |
+| Rust | 13,005 | 129 | 1,759 | 34 |
 | Json | 763 | 0 | 0 | 1 |
 | Toml | 134 | 1 | 10 | 6 |
 | Markdown | 0 | 793 | 376 | 18 |
@@ -32,7 +32,7 @@ Total: **13,777** lines of code across **59** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-21
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **13,777** lines of code across **59** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 123 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 251
+- **Releases**: 34 · **Merged PRs**: 124 · **Open PRs**: 9 · **Closed issues**: 39 · **Open issues**: 15 · **Commits**: 252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 4 | 16 | 0 | 1 | 0 | 20 |
-| last60d | 2026-08-22 | 5 | 25 | 1 | 1 | 2 | 31 |
-| 90d | 2026-07-23 | 6 | 28 | 1 | 1 | 2 | 35 |
-| last180d | 2026-04-24 | 8 | 35 | 3 | 1 | 2 | 42 |
-| 360d | 2025-10-26 | 18 | 70 | 7 | 10 | 7 | 107 |
-| last720d | 2024-10-31 | 28 | 94 | 8 | 22 | 12 | 196 |
+| 30d | 2026-09-22 | 4 | 17 | 0 | 1 | 0 | 21 |
+| last60d | 2026-08-23 | 5 | 26 | 1 | 1 | 2 | 32 |
+| 90d | 2026-07-24 | 6 | 29 | 1 | 1 | 2 | 36 |
+| last180d | 2026-04-25 | 8 | 33 | 3 | 1 | 2 | 43 |
+| 360d | 2025-10-27 | 17 | 71 | 7 | 10 | 7 | 108 |
+| last720d | 2024-11-01 | 28 | 95 | 8 | 22 | 12 | 197 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:33:49Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:15Z._
