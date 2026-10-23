@@ -37,7 +37,7 @@ x install serie
 
 ## 流行度
 
-- **Star**: 2,156 · **Fork**: 66 · **开放 issue**: 54 · **贡献者**: 16
+- **Star**: 2,159 · **Fork**: 66 · **开放 issue**: 54 · **贡献者**: 16
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install serie
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 17 | 0 | 1 | 0 | 21 |
-| last60d | 2026-08-23 | 5 | 26 | 1 | 1 | 2 | 32 |
-| 90d | 2026-07-24 | 6 | 29 | 1 | 1 | 2 | 36 |
-| last180d | 2026-04-25 | 8 | 33 | 3 | 1 | 2 | 43 |
-| 360d | 2025-10-27 | 17 | 71 | 7 | 10 | 7 | 108 |
-| last720d | 2024-11-01 | 28 | 95 | 8 | 22 | 12 | 197 |
+| 30d | 2026-09-23 | 3 | 17 | 0 | 1 | 0 | 21 |
+| last60d | 2026-08-24 | 5 | 26 | 1 | 1 | 2 | 32 |
+| 90d | 2026-07-25 | 6 | 29 | 1 | 1 | 2 | 36 |
+| last180d | 2026-04-26 | 8 | 32 | 3 | 1 | 2 | 43 |
+| 360d | 2025-10-28 | 17 | 71 | 7 | 10 | 7 | 108 |
+| last720d | 2024-11-02 | 28 | 95 | 8 | 22 | 12 | 197 |
 
 ## Release 资产
 
@@ -65,6 +65,17 @@ x install serie
 | [serie-0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
 | [serie-0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/serie) 上共有 **21** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.10.0` | ✅ latest |
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+| Alpine edge | `0.9.3` | ⚠️ outdated |
+
 ## 改进这些数据
 
 serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `serie` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +85,4 @@ serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:31:16Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:36:55Z._
