@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1235506,
       "digest": "sha256:6bba3a666560d58dd754027ac611894168ff5194fb982f9cd5d06c1e1935345b",
-      "download_count": 116,
+      "download_count": 126,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:39Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1533137,
       "digest": "sha256:0e061ce5073a6ffac51f748b1ceba1584b860ff59f87f53787376594155b6b0b",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:38Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1605425,
       "digest": "sha256:7621974e69108e7f51db0e51d40992b4d48584470f13873802832eb637789ab6",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:38Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1329295,
       "digest": "sha256:248dbffb31166e63b43cc68f099f7422470315b21618e5c11932fde251445a2e",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:38Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1622746,
       "digest": "sha256:6ca24df6ed74cd90d0099e406c2bfa29954284ba36ff40d10ae0151679420fc5",
-      "download_count": 143,
+      "download_count": 150,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:38Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1698481,
       "digest": "sha256:13ac34abaa644dcecc11934f028dec4ecc3a3a55a47ad7e925631563a2f0783f",
-      "download_count": 42,
+      "download_count": 45,
       "created_at": "2026-10-12T23:44:38Z",
       "updated_at": "2026-10-12T23:44:39Z",
       "browser_download_url": "https://github.com/lusingander/serie/releases/download/v0.10.0/serie-0.10.0-x86_64-unknown-linux-musl.tar.gz"
