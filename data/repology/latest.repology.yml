@@ -1,21 +1,22 @@
-- repo: parabola
-  subrepo: extra
-  srcname: serie
+- repo: pkgsrc_current
+  srcname: devel/serie
   binname: serie
-  visiblename: serie
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: newest
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: serie
-  visiblename: serie
+  visiblename: devel/serie
   version: 0.10.0
   origversion: null
-  status: newest
-  summary: Rich git commit graph in your terminal, like magic
+  status: outdated
+  summary: Rich git commit graph in your terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: nix_stable_24_11
+  srcname: serie
+  visiblename: serie
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: A rich git commit graph in your terminal, like magic
   maintainers:
     - mail@beyermatthias.de
   licenses:
@@ -95,7 +96,7 @@
   visiblename: serie
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
+  status: outdated
   summary: A rich git commit graph in your terminal
   licenses:
     - MIT
@@ -103,8 +104,8 @@
   srcname: serie-bin
   binname: serie-bin
   visiblename: serie-bin
-  version: 0.10.0
-  origversion: 0.10.0-1
+  version: 0.10.1
+  origversion: 0.10.1-1
   status: newest
   summary: A rich git commit graph in your terminal, like magic
   maintainers:
@@ -114,7 +115,7 @@
 - repo: homebrew
   srcname: serie
   visiblename: serie
-  version: 0.10.0
+  version: 0.10.1
   origversion: null
   status: newest
   summary: Rich git commit graph in your terminal
@@ -154,19 +155,8 @@
   visiblename: serie
   version: 0.10.0
   origversion: 0.10.0-1
-  status: newest
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: serie
-  visiblename: serie
-  version: 0.4.1
-  origversion: null
   status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
+  summary: A rich git commit graph in your terminal
   licenses:
     - MIT
 - repo: nix_stable_25_05
@@ -202,6 +192,28 @@
     - mail@beyermatthias.de
   licenses:
     - MIT
+- repo: nix_unstable
+  srcname: serie
+  visiblename: serie
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
 - repo: pkgsrc_2026_2
   srcname: devel/serie
   binname: serie
@@ -221,18 +233,6 @@
   version: 0.9.0
   origversion: null
   status: outdated
-  summary: Rich git commit graph in your terminal
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pkgsrc_current
-  srcname: devel/serie
-  binname: serie
-  visiblename: devel/serie
-  version: 0.10.0
-  origversion: null
-  status: newest
   summary: Rich git commit graph in your terminal
   maintainers:
     - pkgsrc-users@netbsd.org
