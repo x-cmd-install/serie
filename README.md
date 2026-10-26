@@ -47,12 +47,12 @@ Total: **13,934** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 18 | 0 | 2 | 0 | 19 |
-| last60d | 2026-08-26 | 6 | 27 | 1 | 2 | 1 | 35 |
-| 90d | 2026-07-27 | 7 | 30 | 1 | 2 | 2 | 39 |
-| last180d | 2026-04-28 | 9 | 33 | 3 | 2 | 2 | 43 |
-| 360d | 2025-10-30 | 18 | 72 | 7 | 11 | 7 | 111 |
-| last720d | 2024-11-04 | 29 | 96 | 8 | 23 | 11 | 200 |
+| 30d | 2026-09-26 | 4 | 17 | 0 | 2 | 0 | 19 |
+| last60d | 2026-08-27 | 6 | 27 | 1 | 2 | 1 | 35 |
+| 90d | 2026-07-28 | 7 | 30 | 1 | 2 | 2 | 39 |
+| last180d | 2026-04-29 | 9 | 33 | 3 | 2 | 2 | 43 |
+| 360d | 2025-10-31 | 18 | 72 | 7 | 11 | 7 | 111 |
+| last720d | 2024-11-05 | 29 | 96 | 8 | 23 | 11 | 200 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **13,934** lines of code across **59** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/serie). **2** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/serie). **4** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.10.0` | ⚠️ outdated |
+| Arch | `0.10.1` | ✅ latest |
 | Homebrew | `0.10.1` | ✅ latest |
 | Nix unstable | `0.10.0` | ⚠️ outdated |
 | Alpine edge | `0.9.3` | ⚠️ outdated |
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:29:49Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:33:06Z._
