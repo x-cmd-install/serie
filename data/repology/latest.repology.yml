@@ -230,9 +230,9 @@
   srcname: devel/serie
   binname: serie
   visiblename: devel/serie
-  version: 0.10.0
+  version: 0.10.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Rich git commit graph in your terminal
   maintainers:
     - pkgsrc-users@netbsd.org
