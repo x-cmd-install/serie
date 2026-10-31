@@ -1,14 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: serie
-  visiblename: serie
-  version: 0.4.1
-  origversion: null
-  status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: serie
   visiblename: serie
@@ -20,26 +9,26 @@
     - mail@beyermatthias.de
   licenses:
     - MIT
-- repo: nix_stable_25_11
+- repo: nix_stable_24_11
   srcname: serie
   visiblename: serie
-  version: 0.5.4
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: A rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: serie
+  visiblename: serie
+  version: 0.8.0
   origversion: null
   status: outdated
   summary: Rich git commit graph in your terminal, like magic
   maintainers:
     - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A rich git commit graph in your terminal
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -169,10 +158,21 @@
   summary: A rich git commit graph in your terminal
   licenses:
     - MIT
-- repo: nix_stable_26_05
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: serie
   visiblename: serie
-  version: 0.8.0
+  version: 0.5.4
   origversion: null
   status: outdated
   summary: Rich git commit graph in your terminal, like magic
@@ -238,3 +238,13 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
+- repo: slackbuilds
+  srcname: development/serie
+  visiblename: development/serie
+  version: 0.10.1
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - development
