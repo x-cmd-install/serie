@@ -1,34 +1,12 @@
-- repo: nix_stable_25_05
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: serie
+  binname: serie
   visiblename: serie
-  version: 0.4.6
-  origversion: null
+  version: 0.10.0
+  origversion: 0.10.0-1
   status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: serie
-  visiblename: serie
-  version: 0.4.1
-  origversion: null
-  status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: serie
-  visiblename: serie
-  version: 0.8.0
-  origversion: null
-  status: outdated
-  summary: Rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
+  summary: A rich git commit graph in your terminal
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -136,43 +114,43 @@
   origversion: null
   status: rolling
   summary: Rich git commit graph in your terminal
-- repo: manjaro_stable
-  subrepo: extra
+- repo: nix_stable_24_11
   srcname: serie
-  binname: serie
   visiblename: serie
-  version: 0.8.2
-  origversion: 0.8.2-1
+  version: 0.4.1
+  origversion: null
   status: outdated
-  summary: A rich git commit graph in your terminal
+  summary: A rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
+- repo: nix_stable_25_05
   srcname: serie
-  binname: serie
   visiblename: serie
-  version: 0.9.3
-  origversion: 0.9.3-1
+  version: 0.4.6
+  origversion: null
   status: outdated
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A rich git commit graph in your terminal
+  summary: A rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
   licenses:
     - MIT
 - repo: nix_stable_25_11
   srcname: serie
   visiblename: serie
   version: 0.5.4
+  origversion: null
+  status: outdated
+  summary: Rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: serie
+  visiblename: serie
+  version: 0.8.0
   origversion: null
   status: outdated
   summary: Rich git commit graph in your terminal, like magic
