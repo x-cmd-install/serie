@@ -37,7 +37,7 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,171 · **Forks**: 70 · **Open issues**: 55 · **Contributors**: 16
+- **Stars**: 2,172 · **Forks**: 70 · **Open issues**: 55 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 15 | 0 | 1 | 0 | 18 |
-| last60d | 2026-09-03 | 6 | 27 | 1 | 2 | 1 | 31 |
-| 90d | 2026-08-04 | 7 | 32 | 1 | 2 | 2 | 41 |
-| last180d | 2026-05-06 | 8 | 34 | 3 | 2 | 2 | 45 |
-| 360d | 2025-11-07 | 18 | 74 | 5 | 8 | 6 | 113 |
-| last720d | 2024-11-12 | 29 | 98 | 8 | 23 | 11 | 202 |
+| 30d | 2026-10-04 | 3 | 14 | 0 | 1 | 0 | 18 |
+| last60d | 2026-09-04 | 6 | 27 | 0 | 2 | 1 | 31 |
+| 90d | 2026-08-05 | 7 | 32 | 1 | 2 | 2 | 41 |
+| last180d | 2026-05-07 | 8 | 34 | 3 | 2 | 2 | 45 |
+| 360d | 2025-11-08 | 18 | 74 | 5 | 8 | 6 | 113 |
+| last720d | 2024-11-13 | 29 | 98 | 8 | 23 | 11 | 202 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/serie). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/serie). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:50:53Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:33:24Z._
