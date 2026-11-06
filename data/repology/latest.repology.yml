@@ -1,14 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.10.0
-  origversion: 0.10.0-1
-  status: outdated
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: serie
@@ -40,9 +29,9 @@
   srcname: serie
   binname: serie
   visiblename: serie
-  version: 0.9.3
-  origversion: 0.9.3-r0
-  status: outdated
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: newest
   summary: A rich git commit graph in your terminal
   maintainers:
     - qaq@qaq.land
@@ -53,9 +42,9 @@
   srcname: serie
   binname: serie-doc
   visiblename: serie-doc
-  version: 0.9.3
-  origversion: 0.9.3-r0
-  status: outdated
+  version: 0.10.1
+  origversion: 0.10.1-r0
+  status: newest
   summary: A rich git commit graph in your terminal (documentation)
   maintainers:
     - qaq@qaq.land
@@ -114,6 +103,17 @@
   origversion: null
   status: rolling
   summary: Rich git commit graph in your terminal
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: outdated
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
 - repo: nix_stable_24_11
   srcname: serie
   visiblename: serie
