@@ -37,7 +37,7 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,178 · **Forks**: 70 · **Open issues**: 55 · **Contributors**: 16
+- **Stars**: 2,178 · **Forks**: 71 · **Open issues**: 55 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 14 | 0 | 1 | 0 | 18 |
-| last60d | 2026-09-08 | 5 | 24 | 0 | 2 | 1 | 31 |
-| 90d | 2026-08-09 | 7 | 32 | 1 | 2 | 2 | 41 |
-| last180d | 2026-05-11 | 8 | 34 | 3 | 2 | 2 | 45 |
-| 360d | 2025-11-12 | 18 | 74 | 5 | 8 | 6 | 113 |
-| last720d | 2024-11-17 | 29 | 98 | 8 | 23 | 11 | 202 |
+| 30d | 2026-10-09 | 2 | 14 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-09 | 5 | 24 | 0 | 2 | 1 | 31 |
+| 90d | 2026-08-10 | 7 | 32 | 1 | 2 | 2 | 41 |
+| last180d | 2026-05-12 | 8 | 34 | 3 | 2 | 2 | 45 |
+| 360d | 2025-11-13 | 18 | 74 | 5 | 8 | 6 | 110 |
+| last720d | 2024-11-18 | 29 | 98 | 8 | 23 | 11 | 202 |
 
 ## Release assets
 
@@ -65,17 +65,6 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 | [serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
 | [serie-0.10.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/serie). **11** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.10.1` | ✅ latest |
-| Homebrew | `0.10.1` | ✅ latest |
-| Nix unstable | `0.10.1` | ✅ latest |
-| Alpine edge | `0.10.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `serie` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +74,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:48:57Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:57:24Z._
