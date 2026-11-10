@@ -14,11 +14,11 @@ x install serie
 
 ## Code insight
 
-Total: **13,936** lines of code across **59** files in the top 5 languages.
+Total: **13,938** lines of code across **59** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,037 | 130 | 1,761 | 34 |
+| Rust | 13,039 | 130 | 1,761 | 34 |
 | Json | 763 | 0 | 0 | 1 |
 | Toml | 136 | 1 | 10 | 6 |
 | Markdown | 0 | 791 | 374 | 18 |
@@ -31,39 +31,50 @@ Total: **13,936** lines of code across **59** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.1` (2026-10-25)
-- **Last commit**: 2026-11-01
+- **Latest**: `v0.10.2` (2026-11-10)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,178 · **Forks**: 71 · **Open issues**: 55 · **Contributors**: 16
+- **Stars**: 2,183 · **Forks**: 72 · **Open issues**: 56 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 127 · **Open PRs**: 9 · **Closed issues**: 40 · **Open issues**: 15 · **Commits**: 257
+- **Releases**: 36 · **Merged PRs**: 129 · **Open PRs**: 10 · **Closed issues**: 40 · **Open issues**: 16 · **Commits**: 260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 14 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-09 | 5 | 24 | 0 | 2 | 1 | 31 |
-| 90d | 2026-08-10 | 7 | 32 | 1 | 2 | 2 | 41 |
-| last180d | 2026-05-12 | 8 | 34 | 3 | 2 | 2 | 45 |
-| 360d | 2025-11-13 | 18 | 74 | 5 | 8 | 6 | 110 |
-| last720d | 2024-11-18 | 29 | 98 | 8 | 23 | 11 | 202 |
+| 30d | 2026-10-11 | 3 | 8 | 1 | 1 | 1 | 9 |
+| last60d | 2026-09-11 | 6 | 26 | 1 | 2 | 2 | 34 |
+| 90d | 2026-08-12 | 8 | 34 | 2 | 2 | 3 | 44 |
+| last180d | 2026-05-14 | 9 | 36 | 4 | 2 | 3 | 48 |
+| 360d | 2025-11-15 | 19 | 76 | 6 | 7 | 7 | 113 |
+| last720d | 2024-11-20 | 30 | 100 | 9 | 23 | 12 | 205 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [serie-0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [serie-0.10.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
-| [serie-0.10.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
-| [serie-0.10.1-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
-| [serie-0.10.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [serie-0.10.2-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.10.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [serie-0.10.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.10.2-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [serie-0.10.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.10.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/serie). **1** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.10.1` | ⚠️ outdated |
+| Homebrew | `0.10.1` | ⚠️ outdated |
+| Nix unstable | `0.10.1` | ⚠️ outdated |
+| Alpine edge | `0.10.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -74,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:57:24Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:10:11Z._

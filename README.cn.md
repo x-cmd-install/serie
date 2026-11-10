@@ -14,11 +14,11 @@ x install serie
 
 ## 代码洞察
 
-合计: **13,936** 行代码（覆盖前 5 种语言、共 **59** 个文件）。
+合计: **13,938** 行代码（覆盖前 5 种语言、共 **59** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 13,037 | 130 | 1,761 | 34 |
+| Rust | 13,039 | 130 | 1,761 | 34 |
 | Json | 763 | 0 | 0 | 1 |
 | Toml | 136 | 1 | 10 | 6 |
 | Markdown | 0 | 791 | 374 | 18 |
@@ -31,39 +31,50 @@ x install serie
 
 ## 发布
 
-- **最新版本**: `v0.10.1` (2026-10-25)
-- **最近提交**: 2026-11-01
+- **最新版本**: `v0.10.2` (2026-11-10)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 2,178 · **Fork**: 71 · **开放 issue**: 55 · **贡献者**: 16
+- **Star**: 2,183 · **Fork**: 72 · **开放 issue**: 56 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 127 · **开放 PR**: 9 · **已关闭 issue**: 40 · **开放 issue**: 15 · **提交数**: 257
+- **发布数**: 36 · **已合并 PR**: 129 · **开放 PR**: 10 · **已关闭 issue**: 40 · **开放 issue**: 16 · **提交数**: 260
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 14 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-09 | 5 | 24 | 0 | 2 | 1 | 31 |
-| 90d | 2026-08-10 | 7 | 32 | 1 | 2 | 2 | 41 |
-| last180d | 2026-05-12 | 8 | 34 | 3 | 2 | 2 | 45 |
-| 360d | 2025-11-13 | 18 | 74 | 5 | 8 | 6 | 110 |
-| last720d | 2024-11-18 | 29 | 98 | 8 | 23 | 11 | 202 |
+| 30d | 2026-10-11 | 3 | 8 | 1 | 1 | 1 | 9 |
+| last60d | 2026-09-11 | 6 | 26 | 1 | 2 | 2 | 34 |
+| 90d | 2026-08-12 | 8 | 34 | 2 | 2 | 3 | 44 |
+| last180d | 2026-05-14 | 9 | 36 | 4 | 2 | 3 | 48 |
+| 360d | 2025-11-15 | 19 | 76 | 6 | 7 | 7 | 113 |
+| last720d | 2024-11-20 | 30 | 100 | 9 | 23 | 12 | 205 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [serie-0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [serie-0.10.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
-| [serie-0.10.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
-| [serie-0.10.1-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
-| [serie-0.10.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.1/serie-0.10.1-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [serie-0.10.2-aarch64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [serie-0.10.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [serie-0.10.2-aarch64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [serie-0.10.2-x86_64-apple-darwin.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [serie-0.10.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/x64/glibc` |
+| [serie-0.10.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.10.2/serie-0.10.2-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/serie) 上共有 **22** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.10.1` | ⚠️ outdated |
+| Homebrew | `0.10.1` | ⚠️ outdated |
+| Nix unstable | `0.10.1` | ⚠️ outdated |
+| Alpine edge | `0.10.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -74,4 +85,4 @@ serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T05:57:24Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:10:11Z._
