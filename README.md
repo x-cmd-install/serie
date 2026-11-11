@@ -37,7 +37,7 @@ Total: **13,938** lines of code across **59** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,183 · **Forks**: 72 · **Open issues**: 56 · **Contributors**: 16
+- **Stars**: 2,184 · **Forks**: 72 · **Open issues**: 56 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,938** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 8 | 1 | 1 | 1 | 9 |
-| last60d | 2026-09-11 | 6 | 26 | 1 | 2 | 2 | 34 |
-| 90d | 2026-08-12 | 8 | 34 | 2 | 2 | 3 | 44 |
-| last180d | 2026-05-14 | 9 | 36 | 4 | 2 | 3 | 48 |
-| 360d | 2025-11-15 | 19 | 76 | 6 | 7 | 7 | 113 |
-| last720d | 2024-11-20 | 30 | 100 | 9 | 23 | 12 | 205 |
+| 30d | 2026-10-12 | 3 | 6 | 1 | 1 | 1 | 9 |
+| last60d | 2026-09-12 | 6 | 26 | 1 | 2 | 2 | 34 |
+| 90d | 2026-08-13 | 8 | 34 | 2 | 2 | 3 | 44 |
+| last180d | 2026-05-15 | 9 | 36 | 4 | 2 | 3 | 48 |
+| 360d | 2025-11-16 | 19 | 76 | 6 | 7 | 7 | 113 |
+| last720d | 2024-11-21 | 30 | 100 | 9 | 23 | 12 | 205 |
 
 ## Release assets
 
@@ -67,12 +67,12 @@ Total: **13,938** lines of code across **59** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/serie). **1** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/serie). **4** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.10.1` | ⚠️ outdated |
-| Homebrew | `0.10.1` | ⚠️ outdated |
+| Arch | `0.10.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.10.1` | ⚠️ outdated |
 | Alpine edge | `0.10.1` | ⚠️ outdated |
 
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:10:11Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:59:17Z._
