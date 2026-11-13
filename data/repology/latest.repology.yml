@@ -1,4 +1,16 @@
-- repo: manjaro_unstable
+- repo: pkgsrc_2026_2
+  srcname: devel/serie
+  binname: serie
+  visiblename: devel/serie
+  version: 0.8.0
+  origversion: null
+  status: outdated
+  summary: Rich git commit graph in your terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: arch
   subrepo: extra
   srcname: serie
   binname: serie
@@ -6,57 +18,6 @@
   version: 0.10.2
   origversion: 0.10.2-1
   status: newest
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: serie
-  visiblename: serie
-  version: 0.4.1
-  origversion: null
-  status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: serie
-  visiblename: serie
-  version: 0.4.6
-  origversion: null
-  status: outdated
-  summary: A rich git commit graph in your terminal, like magic
-  maintainers:
-    - mail@beyermatthias.de
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: serie
-  visiblename: serie
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Rich git commit graph in your terminal
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.9.3
-  origversion: 0.9.3-1
-  status: outdated
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.10.1
-  origversion: 0.10.1-1
-  status: outdated
   summary: A rich git commit graph in your terminal
   licenses:
     - MIT
@@ -86,18 +47,6 @@
     - qaq@qaq.land
   licenses:
     - MIT
-- repo: pkgsrc_2026_2
-  srcname: devel/serie
-  binname: serie
-  visiblename: devel/serie
-  version: 0.8.0
-  origversion: null
-  status: outdated
-  summary: Rich git commit graph in your terminal
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: alpine_edge
   subrepo: community
   srcname: serie
@@ -140,17 +89,6 @@
     - MIT
   categories:
     - Development/Other
-- repo: arch
-  subrepo: extra
-  srcname: serie
-  binname: serie
-  visiblename: serie
-  version: 0.10.2
-  origversion: 0.10.2-1
-  status: newest
-  summary: A rich git commit graph in your terminal
-  licenses:
-    - MIT
 - repo: aur
   srcname: serie-bin
   binname: serie-bin
@@ -170,6 +108,68 @@
   origversion: null
   status: newest
   summary: Rich git commit graph in your terminal
+- repo: homebrew
+  srcname: serie
+  visiblename: serie
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Rich git commit graph in your terminal
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.9.3
+  origversion: 0.9.3-1
+  status: outdated
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: outdated
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: serie
+  binname: serie
+  visiblename: serie
+  version: 0.10.2
+  origversion: 0.10.2-1
+  status: newest
+  summary: A rich git commit graph in your terminal
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: serie
+  visiblename: serie
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: A rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: serie
+  visiblename: serie
+  version: 0.4.6
+  origversion: null
+  status: outdated
+  summary: A rich git commit graph in your terminal, like magic
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: serie
   visiblename: serie
@@ -195,9 +195,9 @@
 - repo: nix_unstable
   srcname: serie
   visiblename: serie
-  version: 0.10.1
+  version: 0.10.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Rich git commit graph in your terminal, like magic
   maintainers:
     - mail@beyermatthias.de
@@ -230,9 +230,9 @@
   srcname: devel/serie
   binname: serie
   visiblename: devel/serie
-  version: 0.10.1
+  version: 0.10.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Rich git commit graph in your terminal
   maintainers:
     - pkgsrc-users@netbsd.org
