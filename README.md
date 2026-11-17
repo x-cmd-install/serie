@@ -14,11 +14,11 @@ x install serie
 
 ## Code insight
 
-Total: **14,012** lines of code across **59** files in the top 5 languages.
+Total: **14,015** lines of code across **59** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,113 | 133 | 1,763 | 34 |
+| Rust | 13,116 | 133 | 1,764 | 34 |
 | Json | 763 | 0 | 0 | 1 |
 | Toml | 136 | 1 | 10 | 6 |
 | Markdown | 0 | 799 | 377 | 18 |
@@ -32,7 +32,7 @@ Total: **14,012** lines of code across **59** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.2` (2026-11-10)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **14,012** lines of code across **59** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 133 · **Open PRs**: 9 · **Closed issues**: 41 · **Open issues**: 16 · **Commits**: 265
+- **Releases**: 36 · **Merged PRs**: 134 · **Open PRs**: 9 · **Closed issues**: 41 · **Open issues**: 16 · **Commits**: 266
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 10 | 1 | 2 | 1 | 13 |
-| last60d | 2026-09-17 | 6 | 30 | 1 | 3 | 1 | 34 |
-| 90d | 2026-08-18 | 8 | 38 | 2 | 3 | 3 | 45 |
-| last180d | 2026-05-20 | 9 | 40 | 2 | 3 | 3 | 53 |
-| 360d | 2025-11-21 | 19 | 79 | 5 | 7 | 7 | 114 |
-| last720d | 2024-11-26 | 30 | 104 | 8 | 24 | 12 | 210 |
+| 30d | 2026-10-18 | 2 | 11 | 1 | 2 | 1 | 14 |
+| last60d | 2026-09-18 | 6 | 31 | 1 | 3 | 1 | 35 |
+| 90d | 2026-08-19 | 8 | 38 | 2 | 3 | 3 | 46 |
+| last180d | 2026-05-21 | 9 | 41 | 2 | 3 | 3 | 54 |
+| 360d | 2025-11-22 | 19 | 79 | 5 | 7 | 7 | 115 |
+| last720d | 2024-11-27 | 30 | 105 | 8 | 24 | 12 | 211 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **14,012** lines of code across **59** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/serie). **6** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/serie). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:17:34Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:07:51Z._
