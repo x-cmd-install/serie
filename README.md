@@ -47,12 +47,12 @@ Total: **14,111** lines of code across **59** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 14 | 1 | 2 | 1 | 17 |
-| last60d | 2026-09-23 | 6 | 31 | 1 | 3 | 1 | 40 |
-| 90d | 2026-08-24 | 8 | 40 | 2 | 3 | 3 | 52 |
-| last180d | 2026-05-26 | 10 | 45 | 2 | 3 | 3 | 59 |
-| 360d | 2025-11-27 | 19 | 83 | 5 | 7 | 7 | 120 |
-| last720d | 2024-12-02 | 31 | 109 | 8 | 24 | 12 | 217 |
+| 30d | 2026-10-24 | 3 | 14 | 1 | 1 | 1 | 17 |
+| last60d | 2026-09-24 | 6 | 31 | 1 | 3 | 1 | 40 |
+| 90d | 2026-08-25 | 8 | 40 | 2 | 3 | 3 | 52 |
+| last180d | 2026-05-27 | 10 | 45 | 2 | 3 | 3 | 59 |
+| 360d | 2025-11-28 | 19 | 83 | 5 | 7 | 7 | 120 |
+| last720d | 2024-12-03 | 31 | 109 | 8 | 24 | 12 | 217 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:54:38Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:58:38Z._
