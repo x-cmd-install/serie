@@ -14,11 +14,11 @@ x install serie
 
 ## Code insight
 
-Total: **14,111** lines of code across **59** files in the top 5 languages.
+Total: **14,159** lines of code across **59** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 13,209 | 133 | 1,779 | 34 |
+| Rust | 13,257 | 135 | 1,795 | 34 |
 | Json | 763 | 0 | 0 | 1 |
 | Toml | 139 | 1 | 11 | 6 |
 | Markdown | 0 | 797 | 377 | 18 |
@@ -32,27 +32,27 @@ Total: **14,111** lines of code across **59** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.0` (2026-11-19)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,191 · **Forks**: 72 · **Open issues**: 57 · **Contributors**: 16
+- **Stars**: 2,192 · **Forks**: 72 · **Open issues**: 57 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 138 · **Open PRs**: 8 · **Closed issues**: 41 · **Open issues**: 16 · **Commits**: 272
+- **Releases**: 37 · **Merged PRs**: 139 · **Open PRs**: 9 · **Closed issues**: 41 · **Open issues**: 16 · **Commits**: 273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 14 | 1 | 1 | 1 | 17 |
-| last60d | 2026-09-24 | 6 | 31 | 1 | 3 | 1 | 40 |
-| 90d | 2026-08-25 | 8 | 40 | 2 | 3 | 3 | 52 |
-| last180d | 2026-05-27 | 10 | 45 | 2 | 3 | 3 | 59 |
-| 360d | 2025-11-28 | 19 | 83 | 5 | 7 | 7 | 120 |
-| last720d | 2024-12-03 | 31 | 109 | 8 | 24 | 12 | 217 |
+| 30d | 2026-10-25 | 3 | 14 | 2 | 1 | 1 | 18 |
+| last60d | 2026-09-25 | 6 | 32 | 2 | 3 | 1 | 41 |
+| 90d | 2026-08-26 | 8 | 41 | 3 | 3 | 2 | 53 |
+| last180d | 2026-05-28 | 10 | 46 | 3 | 3 | 3 | 60 |
+| 360d | 2025-11-29 | 19 | 84 | 6 | 7 | 7 | 121 |
+| last720d | 2024-12-04 | 31 | 110 | 9 | 24 | 12 | 218 |
 
 ## Release assets
 
@@ -67,13 +67,13 @@ Total: **14,111** lines of code across **59** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/serie). **4** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/serie). **5** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.11.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.10.2` | ⚠️ outdated |
+| Homebrew | `0.11.0` | ✅ latest |
+| Nix unstable | `0.11.0` | ✅ latest |
 | Alpine edge | `0.10.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -85,4 +85,4 @@ Install metadata for serie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:58:38Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:45:41Z._
