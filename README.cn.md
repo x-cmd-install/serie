@@ -37,7 +37,7 @@ x install serie
 
 ## 流行度
 
-- **Star**: 2,192 · **Fork**: 72 · **开放 issue**: 57 · **贡献者**: 16
+- **Star**: 2,196 · **Fork**: 72 · **开放 issue**: 57 · **贡献者**: 16
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install serie
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 14 | 2 | 1 | 1 | 18 |
-| last60d | 2026-09-25 | 6 | 32 | 2 | 3 | 1 | 41 |
-| 90d | 2026-08-26 | 8 | 41 | 3 | 3 | 2 | 53 |
-| last180d | 2026-05-28 | 10 | 46 | 3 | 3 | 3 | 60 |
-| 360d | 2025-11-29 | 19 | 84 | 6 | 7 | 7 | 121 |
-| last720d | 2024-12-04 | 31 | 110 | 9 | 24 | 12 | 218 |
+| 30d | 2026-10-26 | 2 | 14 | 2 | 1 | 1 | 18 |
+| last60d | 2026-09-26 | 6 | 31 | 2 | 3 | 1 | 41 |
+| 90d | 2026-08-27 | 8 | 41 | 3 | 3 | 2 | 53 |
+| last180d | 2026-05-29 | 10 | 46 | 3 | 3 | 3 | 60 |
+| 360d | 2025-11-30 | 19 | 83 | 6 | 7 | 7 | 121 |
+| last720d | 2024-12-05 | 31 | 110 | 9 | 24 | 12 | 218 |
 
 ## Release 资产
 
@@ -65,17 +65,6 @@ x install serie
 | [serie-0.11.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/lusingander/serie/releases/download/v0.11.0/serie-0.11.0-x86_64-unknown-linux-gnu.tar.gz) | 1.7 MiB | `native/linux/x64/glibc` |
 | [serie-0.11.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/lusingander/serie/releases/download/v0.11.0/serie-0.11.0-x86_64-unknown-linux-musl.tar.gz) | 1.7 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/serie) 上共有 **22** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.11.0` | ✅ latest |
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
-| Alpine edge | `0.10.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `serie` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -85,4 +74,4 @@ serie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:45:41Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:24:59Z._
