@@ -1,0 +1,115 @@
+about:
+  description: "A rich git commit graph in your terminal, like magic 📚"
+  license: MIT
+  homepage: https://lusingander.github.io/serie/
+  head: 204b655
+  archived: false
+  latestVersion: "v0.11.0"
+  latestRelease: "v0.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:38:17Z
+timeline:
+  created: 2024-07-28
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-19
+  lastRelease: 2026-11-19
+  lastPrerelease: 
+popularity:
+  star: 2210
+  watcher: 6
+  fork: 72
+  release: 37
+  contributor: 16
+  pullRequest: 154
+  issue: 57
+language:
+  Rust: 483136
+totalBytes: 483136
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 15
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 19
+  last60d:
+    since: 2026-09-29
+    release: 6
+    mergedPR: 32
+    openPR: 1
+    closedIssue: 3
+    openIssue: 1
+    commit: 42
+  last90d:
+    since: 2026-08-30
+    release: 8
+    mergedPR: 42
+    openPR: 2
+    closedIssue: 3
+    openIssue: 2
+    commit: 54
+  last180d:
+    since: 2026-06-01
+    release: 10
+    mergedPR: 46
+    openPR: 2
+    closedIssue: 3
+    openIssue: 3
+    commit: 61
+  last360d:
+    since: 2025-12-03
+    release: 19
+    mergedPR: 84
+    openPR: 5
+    closedIssue: 7
+    openIssue: 7
+    commit: 122
+  last720d:
+    since: 2024-12-08
+    release: 31
+    mergedPR: 111
+    openPR: 8
+    closedIssue: 24
+    openIssue: 12
+    commit: 219
+total:
+  release: 37
+  mergedPR: 140
+  openPR: 8
+  closedIssue: 41
+  openIssue: 16
+  commit: 274
+---
+path: /home/runner/.x-repo/github.com/lusingander/serie
+collectedAt: 2026-11-28T07:38:20Z
+loc:
+  Rust:
+    code: 13359
+    comments: 138
+    blanks: 1839
+    files: 34
+  Json:
+    code: 763
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 139
+    comments: 1
+    blanks: 11
+    files: 6
+  Markdown:
+    code: 0
+    comments: 797
+    blanks: 377
+    files: 18
+total:
+  code: 14366
+  comments: 953
+  blanks: 2242
+  files: 59
+---
+
+---
